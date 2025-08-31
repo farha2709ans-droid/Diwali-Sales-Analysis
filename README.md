@@ -55,14 +55,11 @@ The dataset is pre-processed to remove inconsistencies and ensure clean data for
 ---
 
 ## How to Use This Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Nilay-rawal1/Diwali-Sales-Analysis.git
-2. Install required dependencies:
+1. Install required dependencies:
    ```bash
    pip install -r requirements.txt
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook Diwali_Sales_Analysis.ipynb
-4. Explore the anaylsis and Visulalisation provided.
+3. Explore the anaylsis and Visulalisation provided.
    
